@@ -1,0 +1,6 @@
+{
+  "name": "Faiiya Youtube Uploader",
+  "description": "Premium, high-end YouTube bulk-uploading desktop dashboard wrapping resumable Node.js uploads with commercial license validation, custom log streaming, and OAuth recovery control panel.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
